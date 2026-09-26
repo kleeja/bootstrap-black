@@ -16,7 +16,7 @@ desc:ar = مبني على بوتسراب، النسخة السوداء
 copyright = 2017 Kleeja.com
 
 #Version of style
-version = 1.1
+version = 1.2
 
 #Min. required version of kleeja
 kleeja_version = 2.0
